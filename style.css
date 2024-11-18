@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#cc8b86;
+    text-align: center;
+    padding-top: 5%;
+}
+.count{
+    font-size: 5vw;
+}
+button{
+    margin-top: 3vh;
+    font-size:2vw;
+    border-radius: 10px;
+}
+.plus-btn{
+    padding: 10px;
+}
+.minus-btn{
+    
+    padding: 10px 15px;
+}
+.inc-dec{
+    font-size: 1.5vw;
+    margin-top: 5vh;
+}
+.inc-dec input {
+    border-radius: 10px;
+    font-size: 1.5vw;
+    padding: 3px 10px;
+    width: 10vw;
+}
+.reset-btn{
+    font-size: 1.3vw;
+    padding: 5px 15px;
+}
